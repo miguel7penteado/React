@@ -4,9 +4,9 @@
 ### 1- PhantomJS no LinkedIn
 
 ```bash
-phantomjs rasterize.js http://ariya.github.io/svg/tiger.svg tiger.png
+phantomjs rasterizar.js http://www.minhapagina.com.br/arquivo1.html print_tela.png
 ```
-segue aqui o conteúdo do script *rasterize.js*
+segue aqui o conteúdo do script *rasterizar.js*
 ```javascript
 "use strict";
 var page = require('webpage').create(),
