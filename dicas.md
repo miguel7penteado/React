@@ -290,8 +290,9 @@ this.state = {lista: [], nome:''}
 ```
 Continua...
 
-fonte: https://medium.com/@dnvtrn/como-fazer-um-crud-com-create-react-app-f0402ff89c05
 
+fonte1: https://medium.com/@dnvtrn/como-fazer-um-crud-com-create-react-app-f0402ff89c05
+fonte2: https://tableless.com.br/criando-sua-primeira-aplicacao-web-com-react/
 
 
 
