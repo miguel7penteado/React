@@ -10,7 +10,7 @@ class Contato extends Component {
     }
 
     componentDidMount() {
-        fetch('https://my-json-server.typicode.com/giuliana-bezerra/demo/profile/1')
+        fetch('https://my-json-server.typicode.com/miguel7penteado/React/perfil/1')
         .then(res => res.json())
         .then(res => {
             console.log(res);
