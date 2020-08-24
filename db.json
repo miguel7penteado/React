@@ -1,0 +1,67 @@
+{
+  "postagens": 
+  [
+    {
+      "id": 1,
+      "titulo": "Primeira postagem Fulano",
+      "conteudo":"Sejam bem vindos ao canal",
+      "autor-id": 1
+    }
+  ,
+    {
+      "id": 2,
+      "titulo": "Primeira postagem Ciclano",
+      "conteudo":"Oi, eu sou o Ciclano",
+      "autor-id": 2
+    }
+  ,
+    {
+      "id": 3,
+      "titulo": "Segunda postagem do Fulano",
+      "conteudo":"Olá amigos do canal",
+      "autor-id": 1
+    }
+  ,
+    {
+      "id": 4,
+      "titulo": "Primeira postagem do Beltrano",
+      "conteudo":"Olá !!!",
+      "autor-id": 3
+    }  
+  ],
+  "perfil": 
+  [
+    {
+      "id": 1,
+      "nome": "Fulano de Tal", 
+      "username": "fulano", 
+      "email": "fulano.tal@meuemail.com.br", 
+      "endereco": "Av Paulista 1000",
+      "telefone": "(11)2022-4042",
+      "website": "http://www.fulano.com.br", 
+      "empresa": "http://www.tabajara.com.br"
+    }
+    ,
+    {
+      "id": 2,
+      "nome": "Ciclano de Tal", 
+      "username": "ciclano", 
+      "email": "ciclano.tal@meuemail.com.br", 
+      "endereco": "Av Paulista 1000",
+      "telefone": "(11)2022-4042",
+      "website": "http://www.ciclano.com.br", 
+      "empresa": "http://www.tabajara.com.br"
+    }
+    ,
+    {
+      "id": 3,
+      "nome": "Beltrano de Tal", 
+      "username": "Beltrano", 
+      "email": "beltrano.tal@meuemail.com.br", 
+      "endereco": "Av Paulista 1000",
+      "telefone": "(11)2022-4042",
+      "website": "http://www.beltrano.com.br", 
+      "empresa": "http://www.tabajara.com.br"
+    }    
+  ]
+}
