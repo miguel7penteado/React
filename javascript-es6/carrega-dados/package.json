@@ -1,8 +1,10 @@
 {
-  "name": "ola-mundo2",
+  "name": "carrega-dados",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "classnames": "^2.2.6",
+    "primereact": "^5.0.0-rc.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "1.0.14"
